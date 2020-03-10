@@ -9,3 +9,4 @@
 
 ## Chapter 2 : Collaborative work
 ### git pull
+### git fetch
