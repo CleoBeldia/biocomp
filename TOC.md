@@ -15,7 +15,7 @@
 # TABLE OF Contents
 
 ## Chapter 1
-[Les fonctions basiques](chapters/chapter1.md)
+[Les fonctions basiques : push, commit, ADD, mv, rm](chapters/chapter1.md)
 ### git add 
 ### git commit
 ### git push
