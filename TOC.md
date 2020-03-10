@@ -11,7 +11,7 @@
 ## Chapter 2 : Collaborative work
 ### git pull
 ### git fetch
-=======
+
 # TABLE OF Contents
 
 ## Chapter 1
